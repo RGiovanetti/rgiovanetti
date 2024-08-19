@@ -1,7 +1,8 @@
-# Hola👋
-¡Soy Renato Giovanetti! Bienvenido a mi perfil de GitHub! 😉  
 
-Apasionado del mundo de los datos y las estadísticas tengo un gran interés en la ingeniería de datos y el análisis de datos. Mi objetivo es aprovechar el poder de los datos para resolver problemas complejos e impulsar la innovación en la toma de decisiones.
+# Hola👋
+¡Soy Renato Giovanetti! Bienvenido a mi perfil de GitHub! 😉
+
+Soy un entusiasta del mundo de los datos y las estadísticas, con un fuerte interés en la ingeniería y el análisis de datos. Mi objetivo es utilizar mi conocimiento para transformar datos complejos en decisiones inteligentes.
 
 ## Acerca de mí 👀
 - 🌍 Soy de Argentina, Buenos Aires  
